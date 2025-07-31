@@ -11,6 +11,15 @@
     },
     "primaryLinks": [
         {
+            "label": "Home",
+            "altText": "Home",
+            "url": "/index",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
             "label": "Pricing",
             "url": "/pricing",
             "icon": "arrowRight",
@@ -27,7 +36,7 @@
             "style": "secondary",
             "type": "Link"
         },
-        {
+         {
             "label": "Careers",
             "altText": "Careers page",
             "url": "/careers",

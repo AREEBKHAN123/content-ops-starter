@@ -4,14 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Elmar Heavy Machinery & Equipments Rental LLC
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Heavy Machinery Rental Company
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      We provide Heavy Machinery & Equipments for Construction Purposes all over U.A.E.
     actions:
       - label: Get started
         altText: ''
@@ -37,7 +35,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Welcome To
       color: text-primary
       type: Badge
     elementId: ''
@@ -59,15 +57,13 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Of Our Services
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: All Over UAE Now!
+        subtitle: Covering All U.A.E
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          We provide Machinery Services to all over Construction Sites in U.A.E with Our Heavy Machinery & Equipments.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -91,11 +87,9 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
+        subtitle: Your Project!
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Our Heavy Equipments and Machinery will make your Project progress more faster.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,12 +109,10 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: Operators
+        subtitle: Trained Operators
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Our services provides Experienced Operators with Our own Heavy Machineries.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -149,7 +141,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label:  Rental Service 
       color: text-primary
       styles:
         self:
@@ -168,7 +160,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Companies We Worked With...
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
@@ -229,7 +221,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Make Your Construction Projects 10x faster
       color: text-dark
       styles:
         self:
