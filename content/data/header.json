@@ -90,7 +90,7 @@
         },
         {
             "label": "Contact Us",
-            "url": "s",
+            "url": "/Contact_Us",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
