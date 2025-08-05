@@ -40,9 +40,9 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "Contact Us",
+                "altText": "Contact Us page",
+                "url": "/Contact_Us",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "Powered by [Elmar Marinas]\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

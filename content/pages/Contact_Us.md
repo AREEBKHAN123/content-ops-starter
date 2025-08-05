@@ -1,24 +1,20 @@
 ---
-title: Careers
-slug: careers
+title: Contact Us
+slug: /Contact_Us
 sections:
   - title:
-      text: A team that works closely together
+      text: Get in Touch with 
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: Elmar Heavy Machinery & Equipments Rental LLC
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Elmar Heavy Machinery & Equipments Rental LLC provides reliable heavy machinery and equipment rental services for civil construction projects across the UAE. We offer a wide range of machines with skilled operators to ensure your project runs smoothly and efficiently. Contact us today for inquiries, bookings, or support.
     actions:
-      - label: See open positions
-        url: /
+      - label: Call Us
+        url: https://wa.me/00971501936626
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -58,9 +54,6 @@ sections:
       - content/data/person1.json
       - content/data/person2.json
       - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -75,20 +68,18 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: Open Vacancies
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Send your CVs and We will Contact Back Soon!
     items:
-      - title: Account Executive
-        subtitle: Sales
+      - title: Basic Heavy Machinery Operator
+        subtitle: 
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          A Basic Operator, having work experience in UAE, with operating Excavator,Wheel loader, Forklift and Boomlift.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -102,12 +93,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
-        subtitle: Marketing
+      - title: Experienced Operator
+        subtitle: 
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Experience Heavy Machinery Operators must have experience in UAE with ability to do Rock Installation, Cutting , Drigging And Filling 
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -121,12 +110,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Senior Software Engineer
+      - title: Vacancy
         subtitle: Engineering
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Enginer that is required will be updated soon.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -158,9 +145,43 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection  
+  
+
+
+
+  
+  
+  - type: GenericSection
+    title:
+      text: Our Office Location Is Provided 
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    
+
+    #this code
+
+  - type: IframeBlock
+    url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115556.84529507316!2d56.229229224744095!3d25.1643647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef4570041454cd5%3A0xe615feee3fdcb892!2sElmar%20Marinas%20L.L.c!5e0!3m2!1sen!2sae!4v1754385973746!5m2!1sen!2sae" 
+  
+
+
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
+  metaTitle: Contact Us
+  metaDescription: This is the careers page built for
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
